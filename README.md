@@ -26,7 +26,7 @@ The item inventory will display on the terminal again and you will then be promp
 Here is a link to a giphy showing me choose an item id number: 
 http://www.giphy.com/gifs/xUOxf6SPD8Ohv8pQJO
 
-This Giphy shows me choosing how many products I would like to buy and shows the results of the purchase (notice it logs the quantity in red of how many items remain after the purchase of that item:
+This Giphy shows me choosing how many products I would like to buy and shows the results of the purchase. (notice it logs the quantity in red of how many items remain after the purchase of that item):
 http://www.giphy.com/gifs/3oxHQBk1DXr1NWGP16
 
 Here is a link to a video showing what it looks like if the quantity is insufficient: http://www.giphy.com/gifs/3ohs7RB6hD6GrevoU8
