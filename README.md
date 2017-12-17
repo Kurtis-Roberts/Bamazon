@@ -23,8 +23,11 @@ It will then confirm whether the item you bought is in stock and will congratula
 
 The item inventory will display on the terminal again and you will then be prompted with the questions of what product would you like to buy based on the item id number.
 
-Here is a link to a giphy showing a successful purchase: 
+Here is a link to a giphy showing me choose an item id number: 
 http://www.giphy.com/gifs/xUOxf6SPD8Ohv8pQJO
+
+This Giphy shows me choosing how many products I would like to buy:
+http://www.giphy.com/gifs/3oxHQBk1DXr1NWGP16
 
 Here is a link to a video showing what it looks like if the quantity is insufficient: http://www.giphy.com/gifs/3ohs7RB6hD6GrevoU8
 
