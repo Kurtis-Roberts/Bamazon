@@ -1,0 +1,25 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "CLI Inventory App Using mysql",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "inquirer": "^4.0.1",
+    "mysql": "^2.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kurtis-Roberts/Bamazon.git"
+  },
+  "author": "Kurtis Roberts",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kurtis-Roberts/Bamazon/issues"
+  },
+  "homepage": "https://github.com/Kurtis-Roberts/Bamazon#readme"
+}
